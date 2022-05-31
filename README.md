@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mgoff2
 - 👀 I’m interested in ...AI, ML, NLP, computational mathematics, and biostatistics.
-- 🌱 I’m currently learning ... biostatistics (at Georgia State- masters program); python, R, and SAS. 
-- 💞️ I’m looking to collaborate on ...Not really sure yet, I'm fairly new at this. 
+- 🌱 I’m currently learning ... Coursera: Google Data Analyst Cert.
+- 💞️ I’m looking to collaborate on ...projects related to the intersection of data analytics, health, behavior, and economics. 
 - 📫 How to reach me ... LinkedIn here (https://tinyurl.com/mr475jr2)
 
 <!---
